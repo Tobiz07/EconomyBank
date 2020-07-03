@@ -1,0 +1,6 @@
+---
+name: EconomyBank
+version: 1.0.0
+main: Sh00ckBass\EconomyBank\Main
+api: 3.14.0
+...

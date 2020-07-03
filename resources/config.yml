@@ -1,0 +1,25 @@
+#___________                                          __________                __    
+#\_   _____/ ____  ____   ____   ____   _____ ___.__. \______   \_____    ____ |  | __
+# |    __)__/ ___\/  _ \ /    \ /  _ \ /     <   |  |  |    |  _/\__  \  /    \|  |/ /
+# |        \  \__(  <_> )   |  (  <_> )  Y Y  \___  |  |    |   \ / __ \|   |  \    < 
+#/_______  /\___  >____/|___|  /\____/|__|_|  / ____|  |______  /(____  /___|  /__|_ \
+#        \/     \/           \/             \/\/             \/      \/     \/     \/
+
+
+
+
+#Messages Use '&' for Colors
+welcome-message: "&aHello, {player} ! &aWelcome to the Bank!"
+back-button: "&cBack"
+profile-message: "&aMoney: &6 {money} \n &aBank: &6 {bank}"
+deposit: "&aDeposit"
+payout: "&cPay Out"
+specifymoneydeposit: "&fSpecify money to deposit"
+specifymoneypayout: "&fSpecify money to pay out"
+
+littlemoneytodeposit: "&cYou have too little money to deposit"
+littlemoneytopayout: "&cYou have too little money to pay out!"
+successfullydeposited: "&aYou have successfully deposited!"
+successfullypaiedout: "&aYou have successfully paid out!"
+#Here you can specify how much you pay when you die (0 = You pay 0 xD)
+moneytopay: "100"

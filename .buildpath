@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<buildpath>
+	<buildpathentry external="true" kind="lib" path="C:/Users/zechm/Desktop/Developer Sachen/Pocketmine Server/PocketMine-MP.phar"/>
+	<buildpathentry kind="con" path="org.eclipse.php.core.LANGUAGE"/>
+	<buildpathentry external="true" kind="lib" path="C:/Users/zechm/Desktop/Developer Sachen/Pocketmine Server/plugins/FormAPI.phar"/>
+	<buildpathentry kind="src" path=""/>
+	<buildpathentry external="true" kind="lib" path="C:/Users/zechm/Desktop/Developer Sachen/Pocketmine Server/plugins/EconomyAPI.phar"/>
+</buildpath>
