@@ -29,9 +29,6 @@ class Main extends PluginBase
         
         @mkdir($this->getDataFolder() . "/Money");
         $this->saveResource("config.yml", false);
-        $logger = $this->getLogger();
-        $logger->info("Plugin aktiv!");
-        $logger->info("Made by Sh00ckBass");
         
         $this->getServer()->getCommandMap()->register("bank", new BankCommand($this));
         $this->getServer()->getPluginManager()->registerEvents(new JoinEvent($this), $this);
